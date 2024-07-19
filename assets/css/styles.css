@@ -276,6 +276,9 @@ img {
 }
 
 /*==================== HOME ====================*/
+.submit-button{
+  border: none;
+}
 .home__container{
   grid-template-columns: .5fr 3fr;
   padding-top: 3.5rem;
